@@ -1,0 +1,24 @@
+*{
+font-family: 'Roboto';
+font-style: normal;
+}
+body{
+background-image: url("./images/bg.png") ;
+padding: 4rem;
+
+}
+#confirm-mail h1{ 
+font-weight: 700;
+font-size: 36.9091px;
+line-height: 58px;   
+letter-spacing: 0.005em;
+text-transform: uppercase; 
+color: #000000; 
+}
+#confirm-mail img{
+    width: 117.03px;
+height: 252.17px;
+}
+#confirm-mail{
+    text-align: center;
+}
